@@ -1,4 +1,5 @@
-# [How to train an object detection model with mmdetection](https://www.dlology.com/blog/how-to-train-an-object-detection-model-with-mmdetection/) | DLology blog
+# [How to train an object detection model with mmdetection](https://www.dlology.com/blog/how-to-train-an-object-detection-model-with-mmdetection/) | Hasnain
+
 
 ## Quick start
 Train an object detection with Google Colab and free GPU.
