@@ -1,14 +1,14 @@
 <annotation>
 	<folder>JPEGImages</folder>
-	<filename>0.jpg</filename>
-	<path>C:\Users\Hasnain\OneDrive\Documents\GitHub\mmdetection_object_detection_demo\data\VOC2007\JPEGImages\0.jpg</path>
+	<filename>Dilation_0.jpg</filename>
+	<path>C:\Users\Hasnain\OneDrive\Documents\GitHub\mmdetection_object_detection_demo\data\VOC2007\JPEGImages\Dilation_0.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
 		<width>638</width>
 		<height>826</height>
-		<depth>3</depth>
+		<depth>1</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
@@ -17,46 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>36</xmin>
-			<ymin>44</ymin>
+			<xmin>37</xmin>
+			<ymin>47</ymin>
 			<xmax>210</xmax>
-			<ymax>70</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>loanterms</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>38</xmin>
-			<ymin>209</ymin>
-			<xmax>607</xmax>
-			<ymax>408</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>projectedpayments</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>36</xmin>
-			<ymin>423</ymin>
-			<xmax>607</xmax>
-			<ymax>675</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>costatclosing</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>35</xmin>
-			<ymin>684</ymin>
-			<xmax>607</xmax>
-			<ymax>790</ymax>
+			<ymax>71</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +29,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>230</xmin>
-			<ymin>79</ymin>
-			<xmax>417</xmax>
-			<ymax>194</ymax>
+			<xmin>231</xmin>
+			<ymin>81</ymin>
+			<xmax>419</xmax>
+			<ymax>196</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>loanterms</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>211</ymin>
+			<xmax>617</xmax>
+			<ymax>411</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>42</xmin>
-			<ymin>233</ymin>
-			<xmax>191</xmax>
-			<ymax>257</ymax>
+			<xmin>37</xmin>
+			<ymin>232</ymin>
+			<xmax>192</xmax>
+			<ymax>255</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,10 +65,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>41</xmin>
-			<ymin>258</ymin>
-			<xmax>194</xmax>
-			<ymax>285</ymax>
+			<xmin>37</xmin>
+			<ymin>254</ymin>
+			<xmax>193</xmax>
+			<ymax>287</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>projectedpayments</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>420</ymin>
+			<xmax>610</xmax>
+			<ymax>682</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>costatclosing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>684</ymin>
+			<xmax>613</xmax>
+			<ymax>788</ymax>
 		</bndbox>
 	</object>
 </annotation>
